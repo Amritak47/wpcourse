@@ -1,0 +1,24 @@
+
+.nav-scroller{
+    background-color: black;
+    color:white;
+}
+.nav d-flex{
+    color: white;
+}
+
+.col-sm{
+    background-color:black;
+}
+.col2-sm{
+    background-color: rgb(66, 66, 73);
+}
+
+.col3-sm{
+    background-color: yellow;
+}
+
+img{
+    max-width: 100%;
+    height:auto;
+}
